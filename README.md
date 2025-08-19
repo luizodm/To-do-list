@@ -7,6 +7,8 @@ Permite adicionar, marcar como concluída, remover tarefas individuais e remover
 
 O layout foi construído com **HTML e CSS**, e o JavaScript manipula tanto o **DOM** quanto o **Local Storage**.
 
+https://to-do-list-mu-ten-93.vercel.app/
+
 ---
 
 ## Funcionalidades
